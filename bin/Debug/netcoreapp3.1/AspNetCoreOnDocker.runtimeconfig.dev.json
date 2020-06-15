@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fansigue\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fansigue\\.nuget\\packages"
+    ]
+  }
+}
